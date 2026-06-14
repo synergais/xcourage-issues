@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Discord Community
+    url: https://discord.gg/courageAI
+    about: Chat with the community and get help in real time
+  - name: Reddit
+    url: https://reddit.com/r/courageAI
+    about: Discussion and announcements on Reddit
